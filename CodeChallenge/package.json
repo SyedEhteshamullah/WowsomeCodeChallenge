@@ -1,0 +1,15 @@
+{
+  "name": "romanmath",
+  "version": "0.0.1",
+  "description": "Library of Math functions operating on Roman Numerals",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha spec"
+  },
+  "author": "Sd Ehteshamullah Husaini",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^3.5.0",
+    "should": "^11.2.1"
+  }
+}
